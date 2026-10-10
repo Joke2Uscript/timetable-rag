@@ -1,0 +1,8 @@
+﻿# ignored files
+.venv/
+.env
+__pycache__/
+*.pyc
+chroma_db/
+extract_preview.txt
+tests/eval_results.json

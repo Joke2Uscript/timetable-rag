@@ -1,0 +1,32 @@
+[
+  {
+    "group": "101",
+    "program_ka": "კომპიუტერული მეცნიერებები",
+    "program_en": "Computer Science"
+  },
+  {
+    "group": "102",
+    "program_ka": "ინფორმატიკა და ინფორმაციული ტექნოლოგიები",
+    "program_en": "Informatics & IT"
+  },
+  {
+    "group": "103",
+    "program_ka": "პროგრამული ინჟინერია",
+    "program_en": "Software Engineering"
+  },
+  {
+    "group": "104",
+    "program_ka": "კომპიუტერული ინჟინერია",
+    "program_en": "Computer Engineering"
+  },
+  {
+    "group": "105",
+    "program_ka": "მონაცემთა მეცნიერება და ხელოვნური ინტელექტი",
+    "program_en": "Data Science & AI"
+  },
+  {
+    "group": "106",
+    "program_ka": "ინფორმაციული სისტემები და ტექნოლოგიები",
+    "program_en": "Information Systems & Technologies"
+  }
+]

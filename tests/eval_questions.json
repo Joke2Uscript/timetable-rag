@@ -1,0 +1,427 @@
+[
+  {
+    "category": "group_day",
+    "question": "ჯგუფი 105-ს ორშაბათს რა აქვს?",
+    "expected_contains": [
+      "09:00",
+      "505",
+      "10:30",
+      "506",
+      "12:00",
+      "507",
+      "14:00",
+      "508",
+      "15:30",
+      "509"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_day",
+    "question": "ჯგუფი 101-ს ხუთშაბათს რა აქვს?",
+    "expected_contains": [
+      "09:00",
+      "404",
+      "10:30",
+      "405",
+      "12:00",
+      "406",
+      "14:00",
+      "407",
+      "15:30",
+      "408"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_day",
+    "question": "ჯგუფი 101-ს ორშაბათს რა აქვს?",
+    "expected_contains": [
+      "09:00",
+      "101",
+      "10:30",
+      "102",
+      "12:00",
+      "103",
+      "14:00",
+      "104",
+      "15:30",
+      "105"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_day",
+    "question": "ჯგუფი 105-ს ხუთშაბათს რა აქვს?",
+    "expected_contains": [
+      "09:00",
+      "308",
+      "10:30",
+      "309",
+      "12:00",
+      "310",
+      "14:00",
+      "201",
+      "15:30",
+      "302"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_day",
+    "question": "ჯგუფი 102-ს ხუთშაბათს რა აქვს?",
+    "expected_contains": [
+      "09:00",
+      "505",
+      "10:30",
+      "506",
+      "12:00",
+      "507",
+      "14:00",
+      "508",
+      "15:30",
+      "509"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_day",
+    "question": "ჯგუფი 102-ს ოთხშაბათს რა აქვს?",
+    "expected_contains": [
+      "09:00",
+      "404",
+      "10:30",
+      "405",
+      "12:00",
+      "406",
+      "14:00",
+      "407",
+      "15:30",
+      "408"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_day",
+    "question": "ჯგუფი 105-ს პარასკევს რა აქვს?",
+    "expected_contains": [
+      "09:00",
+      "409",
+      "10:30",
+      "310",
+      "12:00",
+      "201",
+      "14:00",
+      "302",
+      "15:30",
+      "304"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_day",
+    "question": "ჯგუფი 101-ს პარასკევს რა აქვს?",
+    "expected_contains": [
+      "09:00",
+      "505",
+      "10:30",
+      "506",
+      "12:00",
+      "507",
+      "14:00",
+      "508",
+      "15:30",
+      "509"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "subject_search",
+    "question": "სად და როდის არის საინჟინრო მათემატიკა 1?",
+    "expected_contains": [
+      "ორშაბათი",
+      "101",
+      "სამშაბათი",
+      "206",
+      "ოთხშაბათი",
+      "306",
+      "ხუთშაბათი",
+      "406",
+      "პარასკევი",
+      "506"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "subject_search",
+    "question": "სად და როდის არის ალგორითმიზაციის საფუძვლები და დაპროგრამების ელემენტები?",
+    "expected_contains": [
+      "ორშაბათი",
+      "404",
+      "სამშაბათი",
+      "509",
+      "ოთხშაბათი",
+      "109",
+      "ხუთშაბათი",
+      "209",
+      "პარასკევი",
+      "309"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "subject_search",
+    "question": "სად და როდის არის ოპერაციული სისტემების საფუძვლები?",
+    "expected_contains": [
+      "ორშაბათი",
+      "405",
+      "სამშაბათი",
+      "505",
+      "ოთხშაბათი",
+      "110",
+      "ხუთშაბათი",
+      "210",
+      "პარასკევი",
+      "410"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "subject_search",
+    "question": "სად და როდის არის შესავალი კომპიუტერულ ქსელებში?",
+    "expected_contains": [
+      "ორშაბათი",
+      "205",
+      "სამშაბათი",
+      "305",
+      "ოთხშაბათი",
+      "405",
+      "ხუთშაბათი",
+      "505",
+      "პარასკევი",
+      "110"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "time",
+    "question": "რა ხდება პარასკევს 09:30-ზე?",
+    "expected_contains": [
+      "505",
+      "106",
+      "207",
+      "308",
+      "409",
+      "410"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "time",
+    "question": "რა ხდება ორშაბათს 11:00-ზე?",
+    "expected_contains": [
+      "102",
+      "203",
+      "304",
+      "405",
+      "506",
+      "107"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "time",
+    "question": "რა ხდება ოთხშაბათს 12:30-ზე?",
+    "expected_contains": [
+      "305",
+      "406",
+      "507",
+      "108",
+      "209",
+      "310"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "time",
+    "question": "რა ხდება სამშაბათს 14:30-ზე?",
+    "expected_contains": [
+      "205",
+      "306",
+      "407",
+      "508",
+      "109",
+      "210"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "time",
+    "question": "რა ხდება ხუთშაბათს 16:00-ზე?",
+    "expected_contains": [
+      "408",
+      "509",
+      "110",
+      "201",
+      "302",
+      "403"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "program_day",
+    "question": "Computer Science-ის სტუდენტებს სამშაბათს რა აქვთ?",
+    "expected_contains": [
+      "09:00",
+      "202",
+      "10:30",
+      "203",
+      "12:00",
+      "204",
+      "14:00",
+      "205",
+      "15:30",
+      "206"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "program_day",
+    "question": "Information Systems & Technologies-ის სტუდენტებს პარასკევს რა აქვთ?",
+    "expected_contains": [
+      "09:00",
+      "410",
+      "10:30",
+      "401",
+      "12:00",
+      "402",
+      "14:00",
+      "403",
+      "15:30",
+      "405"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "program_day",
+    "question": "Informatics & IT-ის სტუდენტებს პარასკევს რა აქვთ?",
+    "expected_contains": [
+      "09:00",
+      "106",
+      "10:30",
+      "107",
+      "12:00",
+      "108",
+      "14:00",
+      "109",
+      "15:30",
+      "110"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_program",
+    "question": "ჯგუფი 101 რომელი პროგრამაა?",
+    "expected_contains": [],
+    "expected_any": [
+      "Computer Science",
+      "კომპიუტერული მეცნიერებები"
+    ],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_program",
+    "question": "ჯგუფი 105 რომელი პროგრამაა?",
+    "expected_contains": [],
+    "expected_any": [
+      "Data Science & AI",
+      "მონაცემთა მეცნიერება და ხელოვნური ინტელექტი"
+    ],
+    "expect_not_found": false
+  },
+  {
+    "category": "group_program",
+    "question": "ჯგუფი 102 რომელი პროგრამაა?",
+    "expected_contains": [],
+    "expected_any": [
+      "Informatics & IT",
+      "ინფორმატიკა და ინფორმაციული ტექნოლოგიები"
+    ],
+    "expect_not_found": false
+  },
+  {
+    "category": "room",
+    "question": "რა ტარდება აუდიტორია 109-ში პარასკევს 14:00-ზე?",
+    "expected_contains": [
+      "საინჟინრო მათემატიკა 3"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "room",
+    "question": "რა ტარდება აუდიტორია 401-ში ხუთშაბათს 12:00-ზე?",
+    "expected_contains": [
+      "ინტეგრირებული ინგლისური ენა: ზოგადი და დარგობრივი – B1"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "room",
+    "question": "რა ტარდება აუდიტორია 408-ში სამშაბათს 15:30-ზე?",
+    "expected_contains": [
+      "კომპიუტერის არქიტექტურისა და ორგანიზაციის საფუძვლები"
+    ],
+    "expected_any": [],
+    "expect_not_found": false
+  },
+  {
+    "category": "unanswerable",
+    "question": "რა ხდება შაბათს?",
+    "expected_contains": [],
+    "expected_any": [],
+    "expect_not_found": true
+  },
+  {
+    "category": "unanswerable",
+    "question": "რა ლექცია აქვს ჯგუფ 107-ს ორშაბათს?",
+    "expected_contains": [],
+    "expected_any": [],
+    "expect_not_found": true
+  },
+  {
+    "category": "unanswerable",
+    "question": "ვინ არის კომპიუტერის არქიტექტურის ლექტორი?",
+    "expected_contains": [],
+    "expected_any": [],
+    "expect_not_found": true
+  },
+  {
+    "category": "unanswerable",
+    "question": "როდის არის გამოცდა?",
+    "expected_contains": [],
+    "expected_any": [],
+    "expect_not_found": true
+  }
+]
