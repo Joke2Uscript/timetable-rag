@@ -7,7 +7,7 @@
 
 ![](docs/streamlit%20app%20question1.png)
 ![](docs/streamlit%20app%20questino2.png)
-![](docs/agent%20chat.png.png)
+![](docs/agent%20chat.png)
 
 ## რას აკეთებს
 
