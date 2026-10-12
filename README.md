@@ -5,7 +5,9 @@
 - **v1, RAG pipeline:** ჰიბრიდული ძებნა (ზუსტი ფილტრები და ვექტორული ძებნა), შემდეგ LLM-ის პასუხი.
 - **v2, LangGraph აგენტი:** LLM თვითონ ირჩევს SQL-ზე დაფუძნებულ ხელსაწყოებს (tools), იმახსოვრებს საუბარს და პასუხობს იმ კითხვებს, რასაც v1 ვერ პასუხობდა.
 
-> _აქ ჩასვი სკრინშოტები: `docs/chat-group-day.png` (v1 ინტერფეისი წყაროებით) და `docs/agent-terminal.png` (v2, tool-ების გამოძახება და გაგრძელების კითხვა)._
+![](docs/streamlit%20app%20question1.png)
+![](docs/streamlit%20app%20questino2.png)
+![](docs/agent%20chat.png.png)
 
 ## რას აკეთებს
 
