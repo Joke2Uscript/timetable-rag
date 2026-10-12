@@ -6,3 +6,5 @@ __pycache__/
 chroma_db/
 extract_preview.txt
 tests/eval_results.json
+*.db
+tests/*_results.json
